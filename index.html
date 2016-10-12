@@ -19,7 +19,7 @@ layout: default
 
 	    <article class="item thumb" data-width="{{ film.width }}">
 	        <h2>{{ film.title | escape }} ({{ film.year }})<br>{{ film.director }}</h2>
-	        <a href="http://youtu.be/{{ film.youtube }}" class="image">
+	        <a href="{{ film.video }}" class="image">
 				<img src="images/films/{{ film.image }}" alt="">
 			</a>
 	    </article>
