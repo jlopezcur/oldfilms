@@ -1,0 +1,10 @@
+[
+    { "title":  "Charada", "year": "1963", "director": "Standley Donen", "youtube": "OMa2FYs0gXc", "width": 330, "image": "charada.jpg" },
+    { "title":  "8 1/2", "year": "1963", "director": "Federico Fellini", "youtube": "z0JFekqHRAQ", "width": 156, "image": "ocho-y-medio.jpg" },
+    { "title":  "El Maquinista de la General", "year": "1926", "director": "Buster Keaton", "youtube": "xcjqowD8EOY", "width": 324, "image": "el-maquinista-de-la-general.jpg" },
+    { "title":  "El Acorazado Potemkin", "year": "1925", "director": "Serguéi M. Eisenstein", "youtube": "BEvaNIzuGAg", "width": 330, "image": "el-acorazado-potemkin.jpg" },
+    { "title":  "Rashômon", "year": "1950", "director": "Akira Kurosawa", "youtube": "t342rqq_dew", "width": 290, "image": "rashomon.jpg" },
+    { "title":  "Rebeca", "year": "1940", "director": "Alfred Hitchcock", "youtube": "xMSuArknrxc", "width": 277, "image": "rebeca.jpg" },
+    { "title":  "El Proceso Paradine", "year": "1947", "director": "Alfred Hitchcock", "youtube": "NFRGU08fwGE", "width": 280, "image": "el-proceso-paradine.jpg" },
+    { "title":  "El Ladron de Bagdad", "year": "1924", "director": "Raoul Walsh", "youtube": "ibjBYMDmzgs", "width": 242, "image": "el-ladron-de-bagdad.jpg" }
+]

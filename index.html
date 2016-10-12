@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div id="reel">
+
+    <!-- Header Item -->
+
+    <div id="header" class="item" data-width="400">
+        <div class="inner">
+            <h1>Old Films</h1>
+            <p>Películas clásicas</p>
+        </div>
+    </div>
+
+    <!-- Thumb Items -->
+
+	{% for film in site.data.films %}
+
+	    <article class="item thumb" data-width="{{ film.width }}">
+	        <h2>{{ film.title | escape }} ({{ film.year }})<br>{{ film.director }}</h2>
+	        <a href="http://youtu.be/{{ film.youtube }}" class="image">
+				<img src="images/films/{{ film.image }}" alt="">
+			</a>
+	    </article>
+
+	{% endfor %}
+
+</div>
