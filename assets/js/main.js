@@ -104,7 +104,7 @@ var parallelism = (function($) { var _ = {
 			},
 
 		// Touch device?
-			isTouch: false,
+			isTouch: true,
 
 		// IE version.
 			IEVersion: 99,
