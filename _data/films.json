@@ -13,5 +13,9 @@
     { "title": "Amanece que no es Poco", "year": "1988", "director": "José Luis Cuerda", "video": "http://vimeo.com/90667293", "width": 316, "image": "amanece-que-no-es-poco.jpg" },
     { "title": "Recuerda", "year": "1945", "director": "Alfred Hitchcock", "video": "http://youtu.be/M7i4VTaamk8", "width": 297, "image": "recuerda.jpg" },
     { "title": "La Tienda de los Horrores", "year": "1960", "director": "Roger Corman", "video": "http://youtu.be/igYfsM8G61g", "width": 281, "image": "la-tienda-de-los-horrores.jpg" },
-    { "title": "Cyrano de Bergerac", "year": "1950", "director": "Michael Gordon", "video": "http://youtu.be/8tVKLBD4I8k", "width": 293, "image": "cyrano-de-bergerac.jpg" }
+    { "title": "Cyrano de Bergerac", "year": "1950", "director": "Michael Gordon", "video": "http://youtu.be/8tVKLBD4I8k", "width": 293, "image": "cyrano-de-bergerac.jpg" },
+    { "title": "Sherlock Holmes - El caso de los dedos cortados", "year": "1945", "director": "Roy William Neill", "video": "http://youtu.be/cF8uo7YzrGI", "width": 344, "image": "sherlock-holmes-el-caso-de-los-dedos-cortados.jpg" },
+    { "title": "Sherlock Holmes contra Moriarty", "year": "1939", "director": "Alfred L. Werker", "video": "http://youtu.be/LeC1AaF4d3I", "width": 239, "image": "sherlock-holmes-contra-moriarty.jpg" },
+    { "title": "Frankenstein", "year": "1910", "director": "J. Searle Dawley", "video": "http://youtu.be/Qco7krW4-i0", "width": 318, "image": "frankenstein.jpg" },
+    { "title": "M, el vampiro de Düsseldorf", "year": "1931", "director": "Fritz Lang", "video": "http://youtu.be/TAXw0xXuBPk", "width": 293, "image": "m.jpg" }
 ]
