@@ -11,5 +11,6 @@
     { "title": "Viaje a la Luna", "year": "1902", "director": "Georges Mellier", "video": "http://youtu.be/_FrdVdKlxUk", "width": 307, "image": "viaje-a-la-luna.jpg" },
     { "title": "Dr. Mabuse", "year": "1922", "director": "Fritz Lang", "video": "http://youtu.be/O2pgiXnYs1k", "width": 293, "image": "doctor-mabuse.jpg" },
     { "title": "Amanece que no es Poco", "year": "1988", "director": "José Luis Cuerda", "video": "http://vimeo.com/90667293", "width": 316, "image": "amanece-que-no-es-poco.jpg" },
-    { "title": "Recuerda", "year": "1945", "director": "Alfred Hitchcock", "video": "http://youtu.be/M7i4VTaamk8", "width": 297, "image": "recuerda.jpg" }
+    { "title": "Recuerda", "year": "1945", "director": "Alfred Hitchcock", "video": "http://youtu.be/M7i4VTaamk8", "width": 297, "image": "recuerda.jpg" },
+    { "title": "La Tienda de los Horrores", "year": "1960", "director": "Roger Corman", "video": "http://youtu.be/igYfsM8G61g", "width": 281, "image": "la-tienda-de-los-horrores.jpg" }
 ]
