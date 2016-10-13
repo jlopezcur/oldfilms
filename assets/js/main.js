@@ -620,3 +620,7 @@ var parallelism = (function($) { var _ = {
 }; return _; })(jQuery);
 
 parallelism.init();
+
+$(function () {
+	$('#wrapper').tubular({videoId: 'InFKLfooqAM'});
+});
