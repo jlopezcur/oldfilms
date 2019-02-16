@@ -1,21 +1,12 @@
 [
-    { "title": "Charada", "year": "1963", "director": "Standley Donen", "video": "http://youtu.be/OMa2FYs0gXc", "width": 330, "image": "charada.jpg" },
-    { "title": "8 1/2", "year": "1963", "director": "Federico Fellini", "video": "http://youtu.be/z0JFekqHRAQ", "width": 156, "image": "ocho-y-medio.jpg" },
     { "title": "El Maquinista de la General", "year": "1926", "director": "Buster Keaton", "video": "http://youtu.be/xcjqowD8EOY", "width": 324, "image": "el-maquinista-de-la-general.jpg" },
     { "title": "El Acorazado Potemkin", "year": "1925", "director": "Serguéi M. Eisenstein", "video": "http://youtu.be/BEvaNIzuGAg", "width": 330, "image": "el-acorazado-potemkin.jpg" },
-    { "title": "Rashômon", "year": "1950", "director": "Akira Kurosawa", "video": "http://youtu.be/t342rqq_dew", "width": 290, "image": "rashomon.jpg" },
     { "title": "Rebeca", "year": "1940", "director": "Alfred Hitchcock", "video": "http://youtu.be/xMSuArknrxc", "width": 277, "image": "rebeca.jpg" },
     { "title": "El Proceso Paradine", "year": "1947", "director": "Alfred Hitchcock", "video": "http://youtu.be/NFRGU08fwGE", "width": 280, "image": "el-proceso-paradine.jpg" },
-    { "title": "El Ladron de Bagdad", "year": "1924", "director": "Raoul Walsh", "video": "http://youtu.be/ibjBYMDmzgs", "width": 242, "image": "el-ladron-de-bagdad.jpg" },
-    { "title": "Metrópolis", "year": "1927", "director": "Fritz Lang", "video": "http://youtu.be/RAtl9joJ40A", "width": 320, "image": "metropolis.jpg" },
     { "title": "Viaje a la Luna", "year": "1902", "director": "Georges Mellier", "video": "http://youtu.be/_FrdVdKlxUk", "width": 307, "image": "viaje-a-la-luna.jpg" },
     { "title": "Dr. Mabuse", "year": "1922", "director": "Fritz Lang", "video": "http://youtu.be/O2pgiXnYs1k", "width": 293, "image": "doctor-mabuse.jpg" },
-    { "title": "Amanece que no es Poco", "year": "1988", "director": "José Luis Cuerda", "video": "http://vimeo.com/90667293", "width": 316, "image": "amanece-que-no-es-poco.jpg" },
-    { "title": "Recuerda", "year": "1945", "director": "Alfred Hitchcock", "video": "http://youtu.be/M7i4VTaamk8", "width": 297, "image": "recuerda.jpg" },
     { "title": "La Tienda de los Horrores", "year": "1960", "director": "Roger Corman", "video": "http://youtu.be/igYfsM8G61g", "width": 281, "image": "la-tienda-de-los-horrores.jpg" },
-    { "title": "Cyrano de Bergerac", "year": "1950", "director": "Michael Gordon", "video": "http://youtu.be/8tVKLBD4I8k", "width": 293, "image": "cyrano-de-bergerac.jpg" },
     { "title": "Sherlock Holmes - El caso de los dedos cortados", "year": "1945", "director": "Roy William Neill", "video": "http://youtu.be/cF8uo7YzrGI", "width": 344, "image": "sherlock-holmes-el-caso-de-los-dedos-cortados.jpg" },
     { "title": "Sherlock Holmes contra Moriarty", "year": "1939", "director": "Alfred L. Werker", "video": "http://youtu.be/LeC1AaF4d3I", "width": 239, "image": "sherlock-holmes-contra-moriarty.jpg" },
-    { "title": "Frankenstein", "year": "1910", "director": "J. Searle Dawley", "video": "http://youtu.be/Qco7krW4-i0", "width": 318, "image": "frankenstein.jpg" },
     { "title": "M, el vampiro de Düsseldorf", "year": "1931", "director": "Fritz Lang", "video": "http://youtu.be/TAXw0xXuBPk", "width": 293, "image": "m.jpg" }
 ]
