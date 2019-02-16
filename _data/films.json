@@ -8,5 +8,6 @@
     { "title": "La Tienda de los Horrores", "year": "1960", "director": "Roger Corman", "video": "http://youtu.be/igYfsM8G61g", "width": 281, "image": "la-tienda-de-los-horrores.jpg" },
     { "title": "Sherlock Holmes - El caso de los dedos cortados", "year": "1945", "director": "Roy William Neill", "video": "http://youtu.be/cF8uo7YzrGI", "width": 344, "image": "sherlock-holmes-el-caso-de-los-dedos-cortados.jpg" },
     { "title": "Sherlock Holmes contra Moriarty", "year": "1939", "director": "Alfred L. Werker", "video": "http://youtu.be/LeC1AaF4d3I", "width": 239, "image": "sherlock-holmes-contra-moriarty.jpg" },
-    { "title": "M, el vampiro de Düsseldorf", "year": "1931", "director": "Fritz Lang", "video": "http://youtu.be/TAXw0xXuBPk", "width": 293, "image": "m.jpg" }
+    { "title": "M, el vampiro de Düsseldorf", "year": "1931", "director": "Fritz Lang", "video": "http://youtu.be/TAXw0xXuBPk", "width": 293, "image": "m.jpg" },
+    { "title": "Night of the Living Dead", "year": "1968", "director": "George A. Romero", "video": "http://youtu.be/nduLucavoWo", "width": 293, "image": "night-of-the-living-dead.jpg" }
 ]
